@@ -1,0 +1,215 @@
+/***** BASE STYLES *****/
+
+body {
+   font-family: 'calibri', open sans;
+}
+
+/***** GRID *****/
+
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.half-width {
+  width: 600px;
+  float: left;
+}
+
+.third-width {
+  width: 400px;
+  float: left;
+}
+
+/***** HEADER *****/
+
+header {
+   height: 800px;
+   background: #ECECEC;
+   text-align: left;
+}
+
+header h1 {
+   font-family: 'libre baskerville', serif;
+   font-size: 72px;
+   font-weight: bold;
+   color: #313131;
+   padding: 75px 0;
+   line-height: 80px;
+   width: 800px;
+}
+
+header img {
+   margin-right: 10px;
+   display: inline-block;
+}
+
+header h1 span {
+   color: #77a190;
+}
+
+nav {
+   float: right;
+   padding: 75px 25px;
+}
+
+nav ul li {
+   display: inline-block;
+}
+
+nav ul li a {
+   text-transform: uppercase;
+   text-decoration: none;
+   font-size: 18px;
+   font-weight: bold;
+   color: #77a190;
+   padding-left: 80px;
+}
+   
+header h2 {
+   font-family: 'calibri', open sans;
+   font-size: 48px;
+   color: #313131;
+   width: 800px;
+}
+  
+/***** ABOUT *****/
+
+#about {
+    color: #ffffff;
+    background-color: #77a190;
+    height: 1050px;
+    text-align: center;
+}
+
+#about h3 {
+     font-size: 36px;
+     font-weight: bold;
+     padding: 40px;
+}  
+
+#about img#about-img {
+    display: block;
+    border: 5px solid #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#about h4 {
+    font-size: 24px;
+    font-weight: bold;
+    display: block;
+}
+
+#about p {
+    font-size: 24px;
+    font-family: open sans, regular;
+    text-align: center;
+}
+    
+/***** PORTFOLIO *****/
+
+#portfolio {
+    height: 850px;
+    text-align: center;
+    padding: 0px;
+}
+
+#portfolio h3 {
+   color: #313131;
+   font-size: 36px;
+   font-weight: bold;
+   padding-top: 150px;
+}
+
+#portfolio img {
+   border: 1px solid #b7b7b7;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#portfolio h4 {
+   font-size: 24px;
+   font-weight: bold;
+   text-align: center;
+}
+
+
+/***** CONTACT *****/
+
+#contact {
+   height: 650px;
+   background: #77a190;
+   text-align: center;
+   padding-top: 150px;
+}
+
+#contact h2 {
+   color: #ffffff;
+   font-size: 36px;
+   font-weight: bold;
+}
+
+#contact h3 {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: bold;
+  padding-bottom: 10px; 
+}
+
+#contact p {
+  color: #ffffff;
+  font-size: 24px;
+}
+
+#contact ul {
+   list-style: none;
+}
+
+#contact ul li {
+   display: inline-block;
+}
+
+#contact ul img {
+   padding-right: 50px;
+}
+
+#contact h6 {
+   padding-top: 100px;
+   color: #ffffff;
+   font-size: 18px; 
+}  
+   
+
+
+    
+
+
+    
+
+
+    
+
+
+   
+
+    
+    
+
+
+
+
+
+    
+
+   
+   
+   
+   
+
+  
+  
+
+  
